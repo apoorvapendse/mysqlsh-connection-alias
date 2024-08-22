@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+    "module": "NodeNext",
+    "target": "ES6",
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "moduleResolution": "NodeNext",
+    "resolveJsonModule": true,
+    "outDir": "dist/"
+  },
+    "include": [
+      "src/script.ts",
+      "src/validateURL.ts"
+    ]
+  }
+  
