@@ -1,0 +1,1 @@
+# mysqlsh-connection-alias
